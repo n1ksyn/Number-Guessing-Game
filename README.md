@@ -46,6 +46,7 @@ This project includes unit tests for some of its logic using the Jest testing fr
     npm test
     ```
     Jest will execute the tests located in the `tests/` folder and display the results.
+    
 
 ## Future Improvements (Ideas)
 
